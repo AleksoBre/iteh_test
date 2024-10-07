@@ -11,7 +11,7 @@
 <body>
     <div class="login-form">
         <div class="main-div card shadow-lg p-4">
-            <h2 class="text-center">Prijava korisnika</h2>
+            <h2 class="text-center">Prijava na platformi</h2>
             <form method="POST" action="#">
                 <div class="form-group">
                     <label for="username">Korisničko ime</label>
